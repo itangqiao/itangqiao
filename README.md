@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=itangqiao&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itangqiao&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itangqiao&layout=compact&theme=tokyonight) -->
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=itangqiao&theme=dracula)
+![](https://github-readme-activity-graph.vercel.app/graph?username=itangqiao&theme=react-dark&bg_color=20232a&hide_border=true"width="100%")
 
