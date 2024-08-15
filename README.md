@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/{itangqiao}/count.svg)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=itangqiao&show_icons=true&theme=tokyonight)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itangqiao&layout=compact&theme=tokyonight) -->
 
